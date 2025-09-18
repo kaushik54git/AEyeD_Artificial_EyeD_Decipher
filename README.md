@@ -39,7 +39,7 @@ The device offers three user-friendly buttons:
 ## 🎥 Demo Video
 
 Curious to see it in action?  
-[![Video Title](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=J0DFgdiEM44)
+[![Video Title](https://img.youtube.com/vi/J0DFgdiEM44/0.jpg)](https://www.youtube.com/watch?v=J0DFgdiEM44)
 
 ***
 

@@ -1,13 +1,46 @@
-# AEyeD - Artificial Eye Decipher
 
-Face and Gesture Recognition, Vehicles and Stairs Detection, and Text recognition for visually impaired people using the CNN and Keras-based algorithm
+👁️ AEyeD – Artificial Eye Decipher
+Face & Gesture Recognition | Vehicle & Stairs Detection | Text Reading for the Visually Impaired
 
-AEyeD is an electronic device integrated with a camera attached to spectacles, along with earphones. The device features three buttons: "Start Camera," "Rename Face," and "Text Recognition." It captures real-time images and identifies familiar faces, vocalizing the person's name to the user through the earphones. If an unidentified face is detected, it stores the image in a separate folder. Users have the option to rename the image through voice assistance, after which it is moved to the identified face folder.
+📝 Project Overview
+AEyeD is a comprehensive smart-assistive device designed to empower visually impaired individuals. It integrates a camera-equipped spectacle frame with earphones, bringing advanced perception abilities like face, gesture, obstacle, and text recognition using CNN and Keras-based algorithms.
 
-Moreover, the device can recognize human gestures such as handshakes and high fives, verbally communicating them to the user. This capability fosters confidence in conversation and prevents the other person from feeling ignored.
+🎯 Key Features
+Real-Time Face Recognition
 
-Furthermore, AEyeD can detect parked vehicles and the presence of stairs, indicating their direction. Additionally, it can recognize text and read it aloud to the user.
+Identifies familiar faces and announces names through earphones.
 
-## Demo Video
+Unrecognized faces are stored for later identification/renaming using simple voice commands.
 
-https://youtu.be/J0DFgdiEM44
+Gesture Detection
+
+Recognizes social gestures (handshakes, high fives) and vocalizes to the user — promoting confident social interactions.
+
+Vehicle & Stairs Detection
+
+Alerts about parked vehicles and nearby stairs, including directional guidance for safer navigation.
+
+Text Recognition & Reading
+
+Reads printed/digital text aloud, making everyday information like signs and documents instantly accessible.
+
+🛠️ How It Works
+The device offers three user-friendly buttons:
+
+Start Camera – Initiates image capture and live analysis.
+
+Rename Face – Helps assign/modify names for new faces via voice interface.
+
+Text Recognition – Triggers instant reading of visible text.
+
+🎥 Demo Video
+Curious to see it in action?
+▶️ Demo on YouTube
+
+👤 Contributors
+Nehal Khan
+
+Kaushik Kumbhat
+
+📄 License
+This project is licensed under the MIT License.
